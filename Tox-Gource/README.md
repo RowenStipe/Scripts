@@ -5,6 +5,8 @@ The `gravatar-gource.py` script is called from the main `tox-gource-maker.sh` bu
 
 This script has only been tested to with OSX as of this writing, but should work on a linux system as well.
 
+To run this script simply run `./tox-gource-maker.sh` in terminal.
+
 #LICENCE
 
 GNU GENERAL PUBLIC LICENSE
