@@ -20,7 +20,7 @@ git-repos() {
 	 	git clone https://github.com/irungentoo/toxcore # Toxcore
 		git clone https://github.com/tux3/qTox # qTox
 		git clone https://github.com/GrayHatter/uTox # uTox
-		git clone https://github.com/subliun/Antox # Antox
+		git clone https://github.com/Antox/Antox # Antox
 		git clone https://github.com/Antidote-for-Tox/Antidote # Antidote
 		git clone https://github.com/JFreegman/toxic # Toxic
 		git clone https://github.com/subliun/toxme # Toxme
