@@ -1,6 +1,8 @@
 # Gource Tox History Generator
 This script is a generator for Gource, it requires Python, GIT, and obviously Gource.
 
+`gravatar-grouce.py`from https://github.com/acaudwell/Gource/wiki/Gravatar-Example
+
 The `gravatar-gource.py` script is called from the main `tox-gource-maker.sh` but is by default commented out. You may uncomment the `git-avatar` function on line 96 to also get the Gravatar used.
 
 This script has only been tested to with OSX as of this writing, but should work on a linux system as well.
